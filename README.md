@@ -1,0 +1,1 @@
+An AWS ETL Data Pipeline to extract air quality data from the API via Lambda and store it in S3 Raw bucket daily furter processessing the Data generated for each day and store it in S3 Curated as fact and dimension tables on air quality and exposing dataset to Athena for Data Visualization via Power BI Desktop
